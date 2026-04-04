@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/TrueDelivery-Income%20Protection-f97316?style=for-the-badge&logo=shield&logoColor=white" alt="TrueDelivery"/>
 
-# [TrueDelivery](https://true-delivery.vercel.app/)
+# [TrueDelivery](https://true-delivery-qainstp3o-lazes-projects.vercel.app/)
 
 #### *Your Earnings, Truly Protected.*
 
