@@ -629,7 +629,7 @@ A genuine worker caught in a storm will experience the 🟡 hold as a minor dela
 |:---|:---|
 | 🌐 Deployed Link | *https://true-delivery-frontend.vercel.app* |
 | 📊 Pitch Video | *https://drive.google.com/drive/folders/1yeAbwHa1GqDLBN3__cqnex91eQciRlng?usp=sharing* |
-| 🔗 GitHub Repository | *https://github.com/lazy0ne369/True-Delivery* |
+| 🔗 GitHub Repository | *https://github.com/lazy0ne369/TrueDelivery_Guidewiredevtrails.git* |
 
 ---
 
